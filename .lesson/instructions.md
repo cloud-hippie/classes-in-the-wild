@@ -36,6 +36,6 @@ Write your solution in the `code/main.py` file that get's the tests to pass.
 Once you have completed the asignment:
 - Fork this repo into your Github account.
 - Take the URL.
-- Submit the URL on the Assignment Page on Discord or your Cloud Hippie Clasroom assignment lesson.
+- Submit the URL on the Assignment Page on Discord or your Cloud Hippie Classroom assignment lesson.
 
   
