@@ -33,14 +33,9 @@ You got this! Read the failed tests to see what the current code fails to do.
 
 Write your solution in the `code/main.py` file that get's the tests to pass.
 
-Once you have completed the asignment, submi
-
-  Use [Markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) to format your instructions.
-
-  For example, here is a code block in python3
-```python
-def hello_world():
-  print("hello world!")
-```
+Once you have completed the asignment:
+- Fork this repo into your Github account.
+- Take the URL.
+- Sumit the URL through the Assingment page.
 
   
